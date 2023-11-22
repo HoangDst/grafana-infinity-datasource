@@ -1,44 +1,58 @@
-[
-  {
-    "name": "Leanne Graham",
-    "age": 38,
-    "country": "USA",
-    "occupation": "Devops Engineer",
-    "salary": 3000
-  },
-  {
-    "name": "Ervin Howell",
-    "age": 27,
-    "country": "USA",
-    "occupation": "Software Engineer",
-    "salary": 2300
-  },
-  {
-    "name": "Clementine Bauch",
-    "age": 17,
-    "country": "Canada",
-    "occupation": "Student",
-    "salary": null
-  },
-  {
-    "name": "Patricia Lebsack",
-    "age": 42,
-    "country": "UK",
-    "occupation": "Software Engineer",
-    "salary": 2800
-  },
-  {
-    "name": "Leanne Bell",
-    "age": 38,
-    "country": "USA",
-    "occupation": "Senior Software Engineer",
-    "salary": 4000
-  },
-  {
-    "name": "Chelsey Dietrich",
-    "age": 32,
-    "country": "USA",
-    "occupation": "Software Engineer",
-    "salary": 3500
-  }
-]
+{
+  "Data": [
+    {
+      "id": "87d292b8-b399-4491-a3c8-360ea7e0bb72",
+      "name": "Tốc độ gió",
+      "key": "wspd",
+      "unit": "m/s",
+      "priority": 1,
+      "created_at": "2022-10-12T22:05:00.503015+07:00",
+      "updated_at": "2023-10-13T14:57:47.677704+07:00"
+    },
+    {
+      "id": "6c79a071-8914-497a-8bb6-a9dab637c16c",
+      "name": "Điện áp",
+      "key": "v_in",
+      "unit": "V",
+      "priority": 8,
+      "created_at": "2022-10-12T22:05:00.503015+07:00",
+      "updated_at": "2023-10-13T14:59:03.395144+07:00"
+    },
+    {
+      "id": "ffb728ff-2527-4c1e-b05e-cbe659cae000",
+      "name": "Lượng mưa",
+      "key": "rafa",
+      "unit": "mm",
+      "priority": 5,
+      "created_at": "2022-10-12T22:05:00.503015+07:00",
+      "updated_at": "2023-10-13T14:58:29.35324+07:00"
+    },
+    {
+      "id": "f2f0517c-e61a-4156-aa50-47df07eadde9",
+      "name": "Hướng gió",
+      "key": "wdir",
+      "unit": "°",
+      "priority": 2,
+      "created_at": "2022-10-12T22:05:00.503015+07:00",
+      "updated_at": "2023-10-13T14:58:02.724918+07:00"
+    },
+    {
+      "id": "2764c198-492d-46a9-82fb-243b3414d312",
+      "name": "Bức xạ mặt trời",
+      "key": "sora",
+      "unit": "W/m2",
+      "priority": 7,
+      "created_at": "2022-12-13T17:25:02.192375+07:00",
+      "updated_at": "2023-10-13T14:58:53.350105+07:00"
+    },
+    {
+      "id": "acba6379-b63b-465e-81d1-f0ede7a8c3cd",
+      "name": "Gió max 2s",
+      "key": "wspd_max2_sv",
+      "unit": "m/s",
+      "priority": 6,
+      "created_at": "2023-05-29T20:18:18.507375+07:00",
+      "updated_at": "2023-05-29T20:18:18.507375+07:00"
+    }
+  ]
+}
